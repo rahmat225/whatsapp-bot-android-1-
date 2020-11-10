@@ -1,7 +1,7 @@
 {
-  "name": "st4rzbot",
+  "name": "whatsapp-bot-android-1-",
   "version": "1.0.0",
-  "description": "bot whatsapp lewat hp doang",
+  "description": "ni bang jago codenya",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -34,7 +34,7 @@
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Milik Kita",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Bintang73/botst4rz/issues"
