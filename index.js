@@ -13,13 +13,13 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'BETA BOT'; 
-const instagram = 'https://instagram.com/mwmaulana310'; 
-const telegram = 'https://t.me/bukanuserbiasa'; 
+const BotName = 'NIKO BOT'; 
+const instagram = 'https://instagram.com/rhmteffal'; 
+const telegram = 'https://t.me/lusiapanjir'; 
 const kapanbotaktif = '24 JAM'; 
-const youtube = 'https://www.youtube.com/channel/UCjiMmwBiimdJthhXOQXijOg';
-//const grupch1 = 'belum ada grup'; 
-//const grupch2 = 'belum ada grup' ; 
+const youtube = 'https://youtu.be/N5q-GcI-44I';
+//const grupch1 = 'coming soon'; 
+//const grupch2 = 'coming soon' ; 
 const
 {
    WAConnection,
